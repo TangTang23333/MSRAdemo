@@ -1,0 +1,21 @@
+
+
+<h3> Employee Information</h3>
+
+
+<ul>
+
+  <li *ngFor="let emp of employees" (click)="onClickId(emp.id)">
+    <p >{{emp.id}}</p>
+  
+    <div *ngIf="clicked[emp.id]" >
+      <p> {{emp.name}}</p>
+      <p> {{emp.gender}}</p>
+    </div>
+  
+  </li>
+  
+</ul>
+
+
+
