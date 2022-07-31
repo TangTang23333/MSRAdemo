@@ -23,10 +23,8 @@ namespace DemoAPI.Controllers
         [Route("/employees")]
         public async Task<List<Employee>> GetAll()
         {
-            var employees = await this._employeeService.GetAllEmployees();
-
-            return employees;
-
+            return await this._employeeService
+                .GetAllEmployees();
         }
 
 

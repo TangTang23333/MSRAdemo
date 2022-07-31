@@ -35,3 +35,6 @@ C:\Users\15109\Documents\projects\MSRAdemo\DemoAPI\DemoAPI\obj\Debug\net6.0\refi
 C:\Users\15109\Documents\projects\MSRAdemo\DemoAPI\DemoAPI\obj\Debug\net6.0\DemoAPI.pdb
 C:\Users\15109\Documents\projects\MSRAdemo\DemoAPI\DemoAPI\obj\Debug\net6.0\DemoAPI.genruntimeconfig.cache
 C:\Users\15109\Documents\projects\MSRAdemo\DemoAPI\DemoAPI\obj\Debug\net6.0\ref\DemoAPI.dll
+C:\Users\15109\Documents\projects\MSRAdemo\DemoAPI\DemoAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\15109\Documents\projects\MSRAdemo\DemoAPI\DemoAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\15109\Documents\projects\MSRAdemo\DemoAPI\DemoAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
